@@ -1,4 +1,4 @@
-# Game Master Server JSON ASP.net Core
+# Game Master Server JSON using ASP.NET Core
 
 Example:<br/> 
 Get get the list of games use JSON ../api/gamelist<br/>
