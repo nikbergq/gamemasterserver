@@ -12,6 +12,7 @@ You can deploy this Game Master Server ASP.Net Core MVC JSON website on Heroku.c
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 <br/>
+<br/>
 <a href="https://go.microsoft.com/fwlink/?LinkID=398609">
  Deploy on Micrsoft Azure
 </a>
