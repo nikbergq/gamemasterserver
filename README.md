@@ -1,10 +1,10 @@
 # Game Master Server JSON ASP.net Core
 
 Example: 
-Get get the list of games use JSON ../api/gamelist
-Add a game to the list use JSON ../api/gameregistration
-Remove a game from list use JSON ../api/gamedelete/game/remove/12345
-
+Get get the list of games use JSON ../api/gamelist<br/>
+Add a game to the list use JSON ../api/gameregistration<br/>
+Remove a game from list use JSON ../api/gamedelete/game/remove/12345<br/>
+<br/>
 You can deploy this Game Master Server ASP.Net MVC JSON website on Heroku.com by clicking below button
 <br/>
 <br/>
